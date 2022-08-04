@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b021882-5d29-4dcb-ab23-f69ba4660b32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/KzykHys/CsvParser/Iterator/CsvIterator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/KzykHys/CsvParser/Iterator/CsvIterator.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +26,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -38,7 +45,8 @@
       <option name="presentableId" value="Default" />
       <updated>1648827622744</updated>
       <workItem from="1648827623993" duration="411000" />
-      <workItem from="1648828043456" duration="43000" />
+      <workItem from="1648828043456" duration="1273000" />
+      <workItem from="1659643741293" duration="22000" />
     </task>
     <servers />
   </component>
@@ -46,6 +54,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1649629969673">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1649629969673" />
     <state x="986" y="433" width="587" height="534" key="find.popup" timestamp="1648827642092">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
